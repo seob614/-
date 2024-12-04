@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">차량보험</string>
+    <string name="bottom_button_01">차량상태</string>
+    <string name="bottom_button_02">보험접수</string>
+    <string name="bottom_button_03">사고위치</string>
+    <string name="bottom_button_04">나의정보</string>
+</resources>

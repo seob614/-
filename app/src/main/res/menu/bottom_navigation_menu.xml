@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_car"
+        android:icon="@drawable/bottom_car_off"
+        android:checked="true"
+        android:enabled="true"
+        android:title="@string/bottom_button_01"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_insurance"
+        android:icon="@drawable/bottom_insurance_off"
+        android:enabled="true"
+        android:title="@string/bottom_button_02"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_map"
+        android:icon="@drawable/bottom_map_off"
+        android:enabled="true"
+        android:title="@string/bottom_button_03"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_user"
+        android:icon="@drawable/bottom_user_off"
+        android:enabled="true"
+        android:title="@string/bottom_button_04"
+        app:showAsAction="ifRoom" />
+
+</menu>
